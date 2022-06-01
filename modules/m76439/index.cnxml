@@ -1,0 +1,100 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Unbranched Alkanes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m76439</md:content-id>
+  <md:title>Unbranched Alkanes</md:title>
+  <md:abstract>Naming Unbranched Alkanes (Organic Chemistry)</md:abstract>
+  <md:uuid>af2317e7-da13-4adf-b27a-0b72c71eb609</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm474930480">An <emphasis>alkane</emphasis> is a type of <emphasis>hydrocarbon</emphasis> (a compound consisting of only carbon and hydrogen atoms). When the carbon-carbon backbone consists only of single bonds, the hydrocarbon contains as many hydrogen atoms as possible, and is therefore <emphasis>saturated</emphasis>. Alkanes are saturated hydrocarbons.</para><para id="import-auto-idm670315264"><emphasis>Unbranched alkanes</emphasis> have all their carbon atoms in a single chain.</para>
+    <figure id="import-auto-idm439445696"><title>Hexane</title><media id="import-auto-idm316715552" alt="">
+        <image mime-type="image/jpg" src="../../media/Image1-7bed.jpg" height="96" width="230"/>
+      </media>
+    <caption>Hexane is an unbranched, saturated alkane containing six carbon atoms.</caption></figure><para id="import-auto-idm413997792">Below is a table of the names of unbranched, saturated alkanes containing up to ten carbons, with their condensed structural formulas, molecular formulas, and boiling points.</para><table id="import-auto-idm499976640" summary="Table of names, condensed structural formulas, molecular formulas, and boiling points of unbranched saturated alkanes containing up to ten carbon atoms.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <thead>
+          <row>
+            <entry>Alkane</entry>
+            <entry>Condensed Structural Formula</entry>
+            <entry>Molecular Formula</entry>
+            <entry>Boiling Point (degrees C)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Methane</entry>
+            <entry>CH<sub>4</sub></entry>
+            <entry>CH<sub>4</sub></entry>
+            <entry>-161</entry>
+          </row>
+          <row>
+            <entry>Ethane</entry>
+            <entry>CH<sub>3</sub>CH<sub>3</sub></entry>
+            <entry>C<sub>2</sub>H<sub>6</sub></entry>
+            <entry>-89</entry>
+          </row>
+          <row>
+            <entry>Propane</entry>
+            <entry>CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
+            <entry>C<sub>3</sub>H<sub>8</sub></entry>
+            <entry>-42</entry>
+          </row>
+          <row>
+            <entry>Butane</entry>
+            <entry>CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
+            <entry/>
+            <entry>-0.5</entry>
+          </row>
+          <row>
+            <entry>Pentane</entry>
+            <entry>CH<sub>3</sub>(CH<sub>2</sub>)<sub>3</sub>CH<sub>3</sub></entry>
+            <entry/>
+            <entry>36</entry>
+          </row>
+          <row>
+            <entry>Hexane</entry>
+            <entry>CH<sub>3</sub>(CH<sub>2</sub>)<sub>4</sub>CH<sub>3</sub></entry>
+            <entry/>
+            <entry>69</entry>
+          </row>
+          <row>
+            <entry>Heptane</entry>
+            <entry/>
+            <entry/>
+            <entry>98</entry>
+          </row>
+          <row>
+            <entry>Octane</entry>
+            <entry/>
+            <entry/>
+            <entry>126</entry>
+          </row>
+          <row>
+            <entry>Nonane</entry>
+            <entry/>
+            <entry/>
+            <entry>151</entry>
+          </row>
+          <row>
+            <entry>Decane</entry>
+            <entry/>
+            <entry/>
+            <entry>174</entry>
+          </row>
+        </tbody>
+      
+
+</tgroup><caption>Table of names, condensed structural formulas, molecular formulas, and boiling points of unbranched saturated alkanes containing up to ten carbon atoms.</caption>
+</table><list id="import-auto-idm291840032" list-type="labeled-item"><item>1) Fill in the blank spaces in the table.</item>
+    </list><list id="import-auto-idm319863312" list-type="labeled-item"><item>2) Draw the structures of these ten unbranched alkanes, using Figure 1 (hexane) as a model.</item>
+    </list><list id="import-auto-idm538657616" list-type="labeled-item"><item>3) What do the names of these molecules have in common?</item>
+    </list><list id="import-auto-idm475988368" list-type="labeled-item"><item>4) What is the relationship between the number of carbon atoms and the number of hydrogen atoms in an unbranched alkane? Provide a general formula (use n for the number of carbon atoms).</item>
+    </list><list id="import-auto-idm460832576" list-type="labeled-item"><item>5) Draw a graph of boiling points versus number of carbon atoms in unbranched alkanes.</item>
+    </list><list id="import-auto-idm327282592" list-type="labeled-item"><item>6) How do the boiling points vary with the number of carbons? Propose an explanation for this observation.</item>
+    </list></content>
+</document>

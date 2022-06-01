@@ -1,0 +1,116 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Alkyl Substituents</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m76443</md:content-id>
+  <md:title>Alkyl Substituents</md:title>
+  <md:abstract>How to name organic molecules with alkyl substituents</md:abstract>
+  <md:uuid>790cb94b-f567-424f-a63d-28a6cf40ced4</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm213157104">An <emphasis>alkane</emphasis> can be appended onto an existing chain to create a branched molecule. This branched piece of the molecule is called a <emphasis>substituent</emphasis>. A substituent made from an alkane is called an<emphasis> alkyl group</emphasis>. </para>
+    <para id="import-auto-idm902676112">Alkyl groups are named similarly to unbranched alkane chains.</para>
+    <table id="import-auto-idm914140384" summary="Similarities in naming alkanes and alkyl substituents">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <thead>
+          <row>
+            <entry>Alkane</entry>
+            <entry>Condensed Structure</entry>
+            <entry>Alkyl Group</entry>
+            <entry>Condensed Structure </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Methane</entry>
+            <entry>CH<sub>4</sub></entry>
+            <entry>Methyl</entry>
+            <entry>CH<sub>3</sub>-</entry>
+          </row>
+          <row>
+            <entry>Ethane</entry>
+            <entry>CH<sub>3</sub>CH<sub>3</sub></entry>
+            <entry>Ethyl</entry>
+            <entry>CH<sub>3</sub>CH<sub>2</sub>-</entry>
+          </row>
+          <row>
+            <entry>Propane</entry>
+            <entry>CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
+            <entry>Propyl</entry>
+            <entry>CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>-</entry>
+          </row>
+          <row>
+            <entry>Butane</entry>
+            <entry>CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
+            <entry>Butyl</entry>
+            <entry>CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>-</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table><para id="import-auto-idm681610272">Alkyl groups can also be branched. For example, there are three constitutional isomers of the butyl substituent. In these diagrams, the negative charge on the carbon indicates the site of the bond from the substituent to the rest of the molecule.</para>
+    <figure id="import-auto-idm242484528"><title>isobutyl</title><media id="import-auto-idm203516176" alt="">
+        <image mime-type="image/jpg" src="../../media/Image1-42b7.jpg" height="109" width="124"/>
+      </media>
+    </figure><para id="eip-994"/><figure id="import-auto-idm705262688"><title>sec-butyl</title><media id="import-auto-idm259102672" alt="">
+        <image mime-type="image/jpg" src="../../media/Image2-1de3.jpg" height="119" width="118"/>
+      </media>
+    </figure><para id="eip-513"/><figure id="import-auto-idm768710960"><title>tert-butyl</title><media id="import-auto-idm670577376" alt="">
+        <image mime-type="image/jpg" src="../../media/Image3-7921.jpg" height="124" width="100"/>
+      </media>
+    </figure><para id="eip-31"/><para id="import-auto-idm685175824">When naming molecules according to the IUPAC system of substitutive nomenclature, remember <emphasis>prefix-parent-suffix</emphasis> (like un-believe-able).</para><para id="import-auto-idm685406160"><emphasis>prefix:</emphasis> what are the substituents?</para><para id="import-auto-idm706332752"><emphasis>parent:</emphasis> how many carbons in the parent chain?</para><para id="import-auto-idm228250640"><emphasis>suffix:</emphasis> what is the family of compounds?</para><para id="eip-201">In the case of an alkane, the suffix is <emphasis>-ane.</emphasis></para><para id="import-auto-idm925463024">The name of this molecule is 2-methylhexane. Identify the alkyl group. Label the parent chain carbons from 1-6.</para>
+    <figure id="import-auto-idm898191072"><title>2-methylhexane</title><media id="import-auto-idm255740752" alt="">
+        <image mime-type="image/jpg" src="../../media/Image4-dbce.jpg" height="101" width="224"/>
+      </media>
+    </figure><para id="eip-186"/><para id="import-auto-idm752756080">The name of this molecule is 3-methylheptane. Identify the alkyl group. Label the parent chain carbons from 1-7.</para>
+    <figure id="import-auto-idm667445840"><title>3-methylheptane</title><media id="import-auto-idm756822080" alt="">
+        <image mime-type="image/jpg" src="../../media/Image5-973f.jpg" height="96" width="257"/>
+      </media>
+    </figure><para id="eip-827"/><para id="import-auto-idm699295456">Identify the alkyl group in Molecule A. Label the parent chain carbons from 1-8. What is the name of this molecule?</para><figure id="import-auto-idm892698912"><title>Molecule A</title><media id="import-auto-idm666996448" alt="">
+        <image mime-type="image/jpg" src="../../media/Image6-0774.jpg" height="101" width="289"/>
+      </media>
+    </figure><para id="eip-523"/><para id="import-auto-idm768572544">Identify the alkyl group in Molecule B. Label the parent chain carbons. What is the name of this molecule?</para><figure id="import-auto-idm678125088"><title>Molecule B</title><media id="import-auto-idm231627488" alt="">
+        <image mime-type="image/jpg" src="../../media/Image7-4cc5.jpg" height="88" width="292"/>
+      </media>
+    </figure><para id="eip-763"/><para id="import-auto-idm690271392">The name of this molecule is 2,3-dimethylpentane. </para>
+    <figure id="import-auto-idm685680176"><title> 2,3-dimethylpentane</title><media id="import-auto-idm773543072" alt="">
+        <image mime-type="image/jpg" src="../../media/Image8-9ce6.jpg" height="139" width="192"/>
+      </media>
+   </figure><para id="eip-521"/><para id="import-auto-idm707339888">What is the name of Molecule C?</para><figure id="import-auto-idm912246416"><title>Molecule C</title><media id="import-auto-idm884425664" alt="">
+        <image mime-type="image/jpg" src="../../media/Image9-92a2.jpg" height="139" width="257"/>
+      </media>
+    </figure><para id="eip-832"/><para id="import-auto-idm249705072">The name of this molecule is 4-ethyl-2-methyloctane. </para>
+    <figure id="import-auto-idm898877376"><title>4-ethyl-2-methyloctane</title><media id="import-auto-idm883266448" alt="">
+        <image mime-type="image/jpg" src="../../media/Image10-f73a.jpg" height="123" width="289"/>
+      </media>
+    </figure><para id="eip-389"/><para id="import-auto-idm883855008">What is the name of Molecule D?</para><figure id="import-auto-idm914341056"><title>Molecule D</title><media id="import-auto-idm899549808" alt="">
+        <image mime-type="image/jpg" src="../../media/Image11-3a66.jpg" height="120" width="354"/>
+      </media>
+    </figure><para id="eip-524"/><para id="import-auto-idm234468624">The name of this molecule is 4-isopropylnonane. </para>
+    <figure id="import-auto-idm860577344"><title>4-isopropylnonane</title><media id="import-auto-idm757106896" alt="">
+        <image mime-type="image/jpg" src="../../media/Image12-34e2.jpg" height="195" width="289"/>
+      </media>
+    </figure><para id="eip-958"/><para id="import-auto-idm261493232">What is the name of Molecule E?</para><figure id="import-auto-idm867457072"><title>Molecule E</title><media id="import-auto-idm258108560" alt="">
+        <image mime-type="image/jpg" src="../../media/Image13-67b9.jpg" height="188" width="323"/>
+      </media>
+    </figure><para id="eip-260"/><para id="import-auto-idm672959264">The name of this molecule is cyclobutane. </para>
+    <figure id="import-auto-idm215204048"><title>cyclobutane</title><media id="import-auto-idm679839088" alt="">
+        <image mime-type="image/jpg" src="../../media/Image14-ac9c.jpg" height="66" width="66"/>
+      </media>
+    </figure><para id="eip-903"/><para id="import-auto-idm869362288">What is the name of Molecule F?</para><figure id="import-auto-idm933203456"><title>Molecule F</title><media id="import-auto-idm923181456" alt="">
+        <image mime-type="image/jpg" src="../../media/Image15-12b0.jpg" height="86" width="89"/>
+      </media>
+    </figure><para id="eip-158"/><para id="import-auto-idm746980080">The name of this molecule is methylcyclobutane. </para>
+    <figure id="import-auto-idm886847408"><title>methylcyclobutane</title><media id="import-auto-idm856596080" alt="">
+        <image mime-type="image/jpg" src="../../media/Image16-cc86.jpg" height="99" width="111"/>
+      </media>
+    </figure><para id="eip-839"/><para id="import-auto-idm724532080">The name of this molecule is 1-ethyl-2-methylcyclohexane. </para>
+    <figure id="import-auto-idm240574128"><title>1-ethyl-2-methylcyclohexane</title><media id="import-auto-idm893975744" alt="">
+        <image mime-type="image/jpg" src="../../media/Image17-131d.jpg" height="170" width="161"/>
+      </media>
+    </figure><para id="eip-840"/><para id="import-auto-idm705020832">What is the name of Molecule G?</para><para id="import-auto-idm246078976"><figure id="import-auto-idm865760880"><title>Molecule G</title><media id="import-auto-idm762729648" alt=""><image mime-type="image/jpg" src="../../media/Image18-1d1d.jpg" height="127" width="168"/></media></figure></para><para id="eip-243"/><para id="eip-796">Write the steps that you use to name an alkane, in order, as instructions for a student who doesn't know how to do it.</para><para id="import-auto-idm700772672">Draw any alkane and go through the steps in naming your molecule. </para>
+  </content>
+</document>

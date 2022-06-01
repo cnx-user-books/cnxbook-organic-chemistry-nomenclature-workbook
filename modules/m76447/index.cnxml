@@ -1,0 +1,96 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Benzene and Conjugation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m76447</md:content-id>
+  <md:title>Benzene and Conjugation</md:title>
+  <md:abstract>Understanding and naming benzene derivatives.</md:abstract>
+  <md:uuid>35d6ffb3-aa23-47c2-bea9-3139e6966cb5</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm362871824"><emphasis>Aromatic hydrocarbons, </emphasis>like this <emphasis>benzene</emphasis> ring, have unexpected chemistry. </para>
+    <figure id="import-auto-idm377909728"><title>benzene</title><media id="import-auto-idm369336368" alt="">
+        <image mime-type="image/jpg" src="../../media/Image1-43c6.jpg" height="105" width="94"/>
+      </media>
+    </figure><para id="import-auto-idm1027112224">We would expect to name this molecule 1,3,5-cyclohexatriene and see its double bonds react like other double bonds. However, these double bonds do not react in the same way as double bonds in a standard alkene. Observe the result of the below experiment under the appropriate reaction conditions.</para>
+    <figure id="import-auto-idm379672192">
+      <media id="import-auto-idm811530064" alt="">
+        <image mime-type="image/jpg" src="../../media/Image2-c4fa.jpg" height="143" width="576"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm331448384">This surprising stability of the double bonds in the benzene ring is not due to the cyclic arrangement of the carbon chain. Under the appropriate reaction conditions, we see the following results for adding hydrogen across the double bonds of the molecules below.</para><figure id="import-auto-idm375477280">
+      <media id="import-auto-idm379171232" alt="">
+        <image mime-type="image/jpg" src="../../media/Image3-32fc.jpg" height="311" width="415"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm371829856">Measuring the bond lengths gives the following result.</para>
+    <table id="import-auto-idm375822768" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <thead>
+          <row>
+            <entry>Bond Type</entry>
+            <entry>Bond Length (Angstroms)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Single</entry>
+            <entry>1.54</entry>
+          </row>
+          <row>
+            <entry>Double</entry>
+            <entry>1.34</entry>
+          </row>
+          <row>
+            <entry>Benzene</entry>
+            <entry>1.4</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-idm338270112">Therefore, the three “double bonds” of the benzene ring are not true double bonds. The electrons are shared across all of the carbons in the ring, an arrangement called <emphasis>conjugation </emphasis>which is better represented by the below structure.</para>
+    <figure id="import-auto-idm374743504">
+      <media id="import-auto-idm376827152" alt="">
+        <image mime-type="image/jpg" src="../../media/Image4-a536.jpg" height="105" width="94"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm366248800">When depicting benzene rings using the double bond drawing, remember that the ring is a hybrid between two equally likely <emphasis>resonance structures. </emphasis></para>
+    <figure id="import-auto-idm1023310832">
+      <media id="import-auto-idm374001424" alt="">
+        <image mime-type="image/jpg" src="../../media/Image5-b92e.jpg" height="114" width="268"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm379073840">Therefore both structures below would be named 1-chlorobenzene.</para>
+    <figure id="import-auto-idm908312928"><title>1-chlorobenzene</title><media id="import-auto-idm374945840" alt="">
+        <image mime-type="image/jpg" src="../../media/Image6-5319.jpg" height="146" width="238"/>
+      </media>
+    </figure><para id="import-auto-idm899985312">When a benzene ring has two <emphasis>substituents</emphasis>, they are named based upon their position to each other rather than by numbers.</para>
+    <figure id="import-auto-idm784979728"><title>o-dichlorobenzene</title><media id="import-auto-idm339254960" alt="">
+        <image mime-type="image/jpg" src="../../media/Image7-e366.jpg" height="146" width="124"/>
+      </media>
+    <caption>o is for ortho, with substituents at 1,2</caption></figure><figure id="import-auto-idm893519344"><title>m-chloromethylbenzene</title><media id="import-auto-idm1120082640" alt="">
+        <image mime-type="image/jpg" src="../../media/Image8-e081.jpg" height="156" width="142"/>
+      </media>
+    <caption>m is for meta, with substituents at 1,3</caption></figure><para id="import-auto-idm908394224"><figure id="import-auto-idm1012022064"><title>p-chlorofluorobenzene</title><media id="import-auto-idm1020407952" alt=""><image mime-type="image/jpg" src="../../media/Image9-50f4.jpg" height="190" width="94"/></media><caption>p is for para, with substituents at 1,4</caption></figure></para>
+    <para id="eip-949">What is the name of Molecule A?</para><figure id="import-auto-idm971551136"><title>Molecule A</title><media id="import-auto-idm315140736" alt="">
+        <image mime-type="image/jpg" src="../../media/Image10-58dc.jpg" height="206" width="110"/>
+      </media>
+    </figure><para id="import-auto-idm1314286816">A benzene ring can be a substituent.</para>
+    <para id="import-auto-idm813042352">The name of this molecule is 2-phenyldecane.</para>
+    <figure id="import-auto-idm330830256"><title>2-phenyldecane</title><media id="import-auto-idm1126669920" alt="">
+        <image mime-type="image/jpg" src="../../media/Image11-9ac1.jpg" height="169" width="350"/>
+      </media>
+    </figure><para id="import-auto-idm975272288">What is the name of Molecule B?</para>
+    <figure id="import-auto-idm359569712"><title>Molecule B</title><media id="import-auto-idm374457216" alt="">
+        <image mime-type="image/jpg" src="../../media/Image12-a268.jpg" height="172" width="252"/>
+      </media>
+    </figure><para id="import-auto-idm370230736">Conjugation is not limited to cyclic structures. One of the two molecules below does not react with halogen halides under standard reaction conditions. Which molecule do you predict is the more stable one? Why? What prediction would you make about the lengths of its carbon-carbon bonds?</para>
+    <figure id="import-auto-idm978642768">
+      <media id="import-auto-idm358547824" alt="">
+        <image mime-type="image/jpg" src="../../media/Image13-8c07.jpg" height="69" width="499"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm819131696">Write the steps that you use to name a benzene derivative or a molecule containing a benzene ring as a substituent, in order, as instructions for a student who doesn't know how to do it.</para><para id="import-auto-idm801531376">Draw any benzene-containing molecule and go through the steps in naming your molecule.</para></content>
+</document>
